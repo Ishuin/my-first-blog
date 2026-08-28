@@ -1,9 +1,7 @@
-# my-first-blog
+# My First Blog
 
-This is a blog created in Python Django framework.
+First Django blog project with basic posts, templates, and admin workflows. Created while learning Django fundamentals.
 
-This blog can be seen working at ishuks.pythonanywhere.com
+**Status:** Learning project from 2019. Educational reference only.
 
-username: admin
-
-password: password
+**Tech:** Django, SQLite, templates
